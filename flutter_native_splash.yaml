@@ -1,0 +1,30 @@
+# flutter native splash
+# https://pub.dev/packages/flutter_native_splash
+# 참고: https://dev-yakuza.posstree.com/ko/flutter/splash-screen/
+
+# 실행 명령어
+# flutter pub run flutter_native_splash:create
+flutter_native_splash:
+  color: "#F6F3EE"
+  image: assets/images/lohas_splash.png
+  color_dark: "#F6F3EE"
+  image_dark: assets/images/lohas_splash.png
+  fullscreen: true
+  android: true
+  ios: true
+
+  android_12:
+    image: assets/images/lohas_splash.png
+    color: "#F6F3EE"
+#    icon_background_color: '#000000'
+#    icon_background_color: assets/images/ic_laucher_background.png
+#    image: assets/images/ic_mobidoc_512_transparent.png
+#    icon_background_color: "#347BF6"
+#    icon_background_color: assets/images/ic_mobidoc_512_transparent.png
+
+    image_dark: assets/images/lohas_splash.png
+    color_dark: "#F6F3EE"
+#    icon_background_color_dark: assets/images/ic_laucher_background.png
+#    image_dark: assets/images/ic_mobidoc_512_transparent.png
+#    icon_background_color_dark: "#347BF6"
+#    icon_background_color_dark: assets/images/ic_mobidoc_512_transparent.png

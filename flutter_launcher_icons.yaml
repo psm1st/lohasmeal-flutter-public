@@ -1,0 +1,6 @@
+
+#flutter pub run flutter_launcher_icons:main
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/images/lohas_favicon.png"

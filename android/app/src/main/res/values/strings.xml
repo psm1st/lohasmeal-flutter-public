@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="client_id">YOUR_NAVER_CLIENT_ID</string>
+    <string name="client_secret">YOUR_NAVER_CLIENT_SECRET</string>
+    <string name="client_name">로하스밀</string>
+    <string name="coklog_widget_name">콕로그</string>
+    <string name="coklog_widget_description">육아 기록 홈 위젯</string>
+    <string name="coklog_widget_placeholder">미니앱에서 위젯을 설정하세요</string>
+</resources>
